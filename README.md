@@ -75,16 +75,17 @@ The application extracts the following fields:
 
 ## 🖼 Project Screenshots
 
-### 1. Upload Resume Screen
+### 1. 
 <img width="1056" height="820" alt="Screenshot 2025-10-01 005606" src="https://github.com/user-attachments/assets/6b8b1004-25a7-45df-bac7-89befe248867" />
 
 
-### 2. Processing Chat Bubble
+### 2.
 <img width="658" height="659" alt="Screenshot 2025-10-01 005621" src="https://github.com/user-attachments/assets/9bcfd705-2dc1-4bde-b176-29a4a7ba0adf" />
 
 
-### 3. Extracted Resume Data Table
-![Uploading Screenshot 2025-10-01 005634.png…]()
+### 3. 
+<img width="1056" height="820" alt="Screenshot 2025-10-01 005606" src="https://github.com/user-attachments/assets/b9a01efa-6662-4504-a9c8-d57e3165efcf" />
+
 
 
 > Note: Replace the above image paths with your actual screenshots in the `images` folder.
